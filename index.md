@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<!-- Force rebuild -->
+
 # COMP 110 Class Analysis
 
 ## Analysis Summary
