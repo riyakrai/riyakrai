@@ -11,12 +11,12 @@ For this project, we analyzed whether students think pre lecture videos or lectu
 
 ## Visualizations
 
-![Livestream Histogram](/static/chart_livestream.png)
-![Pre-lecture Histogram](/static/chart_prelecture.png)
-![Livestream Count](/static/chart_livestream_count.png)
-![Pre-lecture Count](/static/chart_prelecture_count.png)
-![Scatter Plot](/static/chart_scatter.png)
-![Strip Plot](/static/chart_stripplot.png)
+![Livestream Histogram](/riyakrai/static/chart_livestream.png)
+![Pre-lecture Histogram](/riyakrai/static/chart_prelecture.png)
+![Livestream Count](/riyakrai/static/chart_livestream_count.png)
+![Pre-lecture Count](/riyakrai/static/chart_prelecture_count.png)
+![Scatter Plot](/riyakrai/static/chart_scatter.png)
+![Strip Plot](/riyakrai/static/chart_stripplot.png)
 
 ## Conclusion
 

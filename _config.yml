@@ -18,8 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-baseurl: "/riyakrai"
-
 title: Comp Final Analysis
 email: riyakrai@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
